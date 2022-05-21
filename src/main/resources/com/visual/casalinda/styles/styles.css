@@ -1,3 +1,15 @@
 #background{
-    -fx-background-color: lightgreen;
+    -fx-background-color: #FFC998;
+}
+
+#loginButton{
+    -fx-background-color: #F76E11;
+    -fx-text-fill: white;
+    -fx-font-family: Montserrat;
+}
+
+#loginButton:hover{
+    -fx-cursor: hand;
+    -fx-background-color: #fc9247;
+    -fx-font-weight: bold;
 }
